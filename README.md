@@ -1,5 +1,9 @@
 # environmental_data_week2
 
+NB: the /data folder was too big to pose on githup. You can access the data using the following Dropbox link: 
+https://www.dropbox.com/sh/fxcmtbz4o3tacz1/AABjQbeyg27zDh1chZxRDFcpa?dl=0
+
+
 ## Learning outcomes:
 
 On successful completion of this module, students will be able to:
