@@ -1,0 +1,12 @@
+Area = ['point', 527500.0, 177500.0]
+ClimateChangeType = absolute
+Collection = land-cpm
+DataFormat = netcdf
+EnsembleMemberSet = 01
+JobLabel = EDSML_UKCP18_2061-2080_precip-hourly
+TemporalAverage = 1hr
+TimeSlice = 2061|2081
+Variable = pr
+
+Process Identifier = LS3A_Subset_03
+Software Version = WPS-2.6.0-DP-2.6.0-CV-1.0.7
