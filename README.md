@@ -55,5 +55,5 @@ Exercises will be distributed and submitted via GitHub Classroom on Friday.
 
 |Release Date         | Due Date            | Topic                             |
 |---------------------|---------------------|-----------------------------------|
-|2021-11-26 Fri 13:00 | 2021-11-26 18:00 Fri| Data Processing |
+|2021-11-26 Fri 13:00 | 2021-11-26 17:00 Fri| Climate data |
 
