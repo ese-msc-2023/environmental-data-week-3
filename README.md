@@ -1,4 +1,4 @@
-# environmental_data_week2
+# environmental_data_week1
 
 NB: the /data folder was too big to pose on githup. You can access the data using the following Dropbox link: 
 https://www.dropbox.com/sh/fxcmtbz4o3tacz1/AABjQbeyg27zDh1chZxRDFcpa?dl=0
@@ -43,11 +43,11 @@ https://www.earthdatascience.org/courses/use-data-open-source-python/use-time-se
 
 |Date                      | Lecture                             |Instructor  |Moderator   |
 |--------------------------|-------------------------------------|------------|------------|
-|2021-11-22 9:00-12:00 Mon | Intro to climate data     | Y Plancherel        | GTA-Arianna    |
-|2021-11-23 9:00-12:00 Tue | Intro to time series      | Y Plancherel        | GTA-Arianna    |
-|2021-11-24 9:00-12:00 Wed | Intro to geostatistics    | Y Plancherel        | GTA-Arianna    |
-|2021-11-25 9:00-12:00 Thu | Presentations and Google Earth Engine | Y Plancherel     | Shuaib Rasheed  |
-|2021-11-26 9:00-12:00 Fri |Drop-in session (optional)           | | |
+|2022-01-09 9:00-12:00 Mon | Intro to climate data     | Y Plancherel        | GTA         |
+|2022-01-10 9:00-12:00 Tue | Intro to time series      | Y Plancherel        | GTA         |
+|2022-01-11 9:00-12:00 Wed | Intro to geostatistics    | Y Plancherel        | GTA         |
+|2022-01-12 9:00-12:00 Thu | Intro to geostatistics    | Y Plancherel        | GTA         |
+|2022-01-13 9:00-12:00 Fri | Drop-in session (optional)| Y Plancherel        |             |
 
 ## Assessment exercises
 Assessment will be 100% by coursework. It is all open book. 
@@ -55,5 +55,5 @@ Exercises will be distributed and submitted via GitHub Classroom on Friday.
 
 |Release Date         | Due Date            | Topic                             |
 |---------------------|---------------------|-----------------------------------|
-|2021-11-26 Fri 13:00 | 2021-11-26 17:00 Fri| Climate data |
+|2022-01-13 Fri 13:00 | 2022-01-13 17:00 Fri| Environmental data week 1         |
 
