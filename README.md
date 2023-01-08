@@ -43,11 +43,11 @@ https://www.earthdatascience.org/courses/use-data-open-source-python/use-time-se
 
 |Date                      | Lecture                             |Instructor  |Moderator   |
 |--------------------------|-------------------------------------|------------|------------|
-|2022-01-09 9:00-12:00 Mon | Intro to climate data     | Y Plancherel        | GTA         |
-|2022-01-10 9:00-12:00 Tue | Intro to time series      | Y Plancherel        | GTA         |
-|2022-01-11 9:00-12:00 Wed | Intro to geostatistics    | Y Plancherel        | GTA         |
-|2022-01-12 9:00-12:00 Thu | Intro to geostatistics    | Y Plancherel        | GTA         |
-|2022-01-13 9:00-12:00 Fri | Drop-in session (optional)| Y Plancherel        |             |
+|2022-01-09 9:00-12:00 Mon | Intro to climate data & models      | Y Plancherel        | GTA         |
+|2022-01-10 9:00-12:00 Tue | Working with climate data           | Y Plancherel        | GTA         |
+|2022-01-11 9:00-12:00 Wed | Temporal data; time series analysis | Y Plancherel        | GTA         |
+|2022-01-12 9:00-12:00 Thu | Spatial data; geostatistics         | Y Plancherel        | GTA         |
+|2022-01-13 9:00-12:00 Fri | Drop-in session (optional)          | Y Plancherel        |             |
 
 ## Assessment exercises
 Assessment will be 100% by coursework. It is all open book. 
