@@ -1,6 +1,6 @@
 # environmental_data_week1
 
-NB: the /data folder was too big to pose on githup. You can access the data using the following Dropbox link: 
+NB: the /data folder was too big to pose on github. You can access the data using the following Dropbox link: 
 https://www.dropbox.com/sh/fxcmtbz4o3tacz1/AABjQbeyg27zDh1chZxRDFcpa?dl=0
 
 
@@ -17,8 +17,8 @@ On successful completion of this module, students will be able to:
 This module will deliver the core knowledge and skills required for processing and analysing data in the context of climate science. 
 This week, we will focus on: 
 1. understanding climate modelling, and learn how and where to access climate data
-2. learn about time-series analysis
-3. learn about geostatistics
+2. basics of time-series analysis
+3. basics of geostatistics
 
 We won't be able to go through these topics in detail, but it is hoped that the material covered will help you develop your own skills. 
 
