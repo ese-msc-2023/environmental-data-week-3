@@ -43,7 +43,7 @@ https://www.earthdatascience.org/courses/use-data-open-source-python/use-time-se
 
 |Date                      | Lecture                             |Instructor  |Moderator   |
 |--------------------------|-------------------------------------|------------|------------|
-|2022-01-09 9:00-12:00 Mon | Intro to climate data & models      | Y Plancherel        | GTA         |
+|2022-01-09 9:00-12:00 Mon | Intro to climate modelling          | Y Plancherel        | GTA         |
 |2022-01-10 9:00-12:00 Tue | Working with climate data           | Y Plancherel        | GTA         |
 |2022-01-11 9:00-12:00 Wed | Temporal data; time series analysis | Y Plancherel        | GTA         |
 |2022-01-12 9:00-12:00 Thu | Spatial data; geostatistics         | Y Plancherel        | GTA         |
