@@ -1,4 +1,4 @@
-# environmental_data_week1
+# environmental-data-week-3
 
 NB: the /data folder was too big to pose on github. You can access the data using the following Dropbox link: 
 https://www.dropbox.com/sh/fxcmtbz4o3tacz1/AABjQbeyg27zDh1chZxRDFcpa?dl=0
@@ -43,21 +43,22 @@ https://www.earthdatascience.org/courses/use-data-open-source-python/use-time-se
 
 |Date                       | Lecture                             |Instructor  |Moderator   |
 |---------------------------|-------------------------------------|------------|------------|
-|2022-01-09 9:00-12:00 Mon  | Intro to climate modelling          | Y Plancherel        | GTA         |
-|2022-01-09 14:00-17:00 Mon | Intro to climate modelling (cont)   | Y Plancherel        | GTA         |
-|2022-01-10 9:00-12:00 Tue  | Working with climate data I         | Y Plancherel        | GTA         |
-|2022-01-10 14:00-17:00 Tue | Working with climate data II        | Y Plancherel        | GTA         |
-|2022-01-11 9:00-12:00 Wed  | Temporal data; time series analysis | Y Plancherel        | GTA         |
-|2022-01-11 14:00-17:00 Wed | Free                                | Y Plancherel        | GTA         |
-|2022-01-12 9:00-12:00 Thu  | Spatial data; geostatistics         | Y Plancherel        | GTA         |
-|2022-01-12 14:00-17:00 Thu | Practical time-series/geostat       | Y Plancherel        | GTA         |
-|2022-01-13 9:00-12:00 Fri  | self-study, tutorial session        | Y Plancherel        |             |
+|2024-01-22 9:00-12:00 Mon  | Intro to climate modelling          | Y Plancherel        | GTA         |
+|2024-01-22 14:00-17:00 Mon | Intro to climate modelling (cont)   | Y Plancherel        | GTA         |
+|2024-01-23 9:00-12:00 Tue  | Working with climate data I         | Y Plancherel        | GTA         |
+|2024-01-23 14:00-17:00 Tue | Working with climate data II        | Y Plancherel        | GTA         |
+|2024-01-24 9:00-12:00 Wed  | Temporal data; time series analysis | Y Plancherel        | GTA         |
+|2024-01-24 14:00-17:00 Wed | Free                                | Y Plancherel        | GTA         |
+|2024-01-25 9:00-12:00 Thu  | Spatial data; geostatistics         | Y Plancherel        | GTA         |
+|2024-01-25 14:00-17:00 Thu | Practical time-series/geostat       | Y Plancherel        | GTA         |
+|2024-01-26 9:00-12:00 Fri  | self-study        |         |             |
 
 ## Assessment exercises
-Assessment will be 100% by coursework. It is all open book. 
-Exercises will be distributed and submitted via GitHub Classroom on Friday. 
+Assessment will be 100% by coursework/quiz. It is open book but absoluetly forbids use of any AI tools or internet resources. 
+
+Questions will be distributed and submitted via GitHub Classroom on Friday. 
 
 |Release Date         | Due Date            | Topic                             |
 |---------------------|---------------------|-----------------------------------|
-|2022-01-13 Fri 13:00 | 2022-01-13 17:00 Fri| Environmental data week 1         |
+|2024-01-26 Fri 14:00 | 2024-01-26 16:00 Fri| Assessment, Environmental data weeks 1,2,3         |
 
