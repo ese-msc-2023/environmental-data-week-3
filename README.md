@@ -50,7 +50,7 @@ https://www.earthdatascience.org/courses/use-data-open-source-python/use-time-se
 |2024-01-24 9:00-12:00 Wed  | Temporal data; time series analysis | Y Plancherel        | GTA         |
 |2024-01-24 14:00-17:00 Wed | Free                                | Y Plancherel        | GTA         |
 |2024-01-25 9:00-12:00 Thu  | Spatial data; geostatistics         | Y Plancherel        | GTA         |
-|2024-01-25 14:00-17:00 Thu | Practical       | Y Plancherel        | GTA         |
+|2024-01-25 14:00-17:00 Thu | Practical 'Winery project'      | Y Plancherel        | GTA         |
 |2024-01-26 9:00-12:00 Fri  | self-study        |         |             |
 
 ## Assessment exercises
